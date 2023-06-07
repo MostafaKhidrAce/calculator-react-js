@@ -1,5 +1,5 @@
 # calculator-react-js
-Calculator App 
+Calculator App (React)
 </hr>
 Using
 
