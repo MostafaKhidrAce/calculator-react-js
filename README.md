@@ -1,12 +1,12 @@
 # calculator-react-js
 Calculator App (React)
-<hr>
+<hr/>
 Using
 
-<hr>
+<hr/>
 
 HTML - CSS - JaveScript - React.JS  
 
-<hr>
+<hr/>
 
 https://calculator-react-js-92sa.vercel.app/
