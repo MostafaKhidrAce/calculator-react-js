@@ -3,7 +3,7 @@ Calculator App (React)
 <hr/>
 Using
 
-<hr/>
+
 
 HTML - CSS - JaveScript - React.JS  
 
